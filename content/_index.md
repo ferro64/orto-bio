@@ -1,10 +1,10 @@
 ---
 title: "Benvenuti a Orto Bio"
 description: "Consigli, tecniche e ispirazioni per coltivazioni biologiche di successo."
-featured_image: "img/home-hero.jpg" # Cambia con un'immagine della tua scelta
+featured_image: "img/home-hero.png" # Cambia con un'immagine della tua scelta
 ---
 
-
+![Home Hero](/img/home-hero.png)
 
 Benvenuti nel mondo della coltivazione biologica! Qui troverai:
 
@@ -14,4 +14,4 @@ Benvenuti nel mondo della coltivazione biologica! Qui troverai:
 
 🌟 **Inizia subito il tuo viaggio verso un orto biologico rigoglioso!**
 
-[Scopri i nostri articoli](/blog/)
+<a href="/blog/" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Scopri i nostri articoli</a>
